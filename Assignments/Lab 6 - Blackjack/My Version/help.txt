@@ -1,0 +1,6 @@
+Aces do count for 1 or 11 and work in (as far as I saw) every situation
+
+Had help from you to figure out how to fix my while loop
+I used your drawThreeCards function to help understand what exactly to put when documenting functions
+
+Had help from Shannon on discussing possibilities on how to get aces to count for 1 or 11

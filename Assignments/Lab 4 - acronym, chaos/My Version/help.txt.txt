@@ -1,0 +1,4 @@
+In chaos.py, you told me I needed to use what my other function returned in an equation,
+and I compared outputs with Shannon Haddox.
+
+In acronym.py, I had no help.
